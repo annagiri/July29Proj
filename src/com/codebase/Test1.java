@@ -6,6 +6,8 @@ public class Test1 {
 
 		for(int i=0; i<5; i++)
 			System.out.println("Hi World.. change Three " +i);
+			
+		System.out.println("Another statement");			
 	}
 
 }
